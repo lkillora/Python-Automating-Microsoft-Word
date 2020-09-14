@@ -1,0 +1,2 @@
+# Python-Automating-Microsoft-Word
+I used Python to read in all the csv files in the directory, each containing a list of students for that class. Then program then generates a cleaning rota for each class, grouping students in groups of 3 or 4 (to ensure there is no one-person team), and assigning each team a list of school weeks in the year. The rota for each class is then dumped in a formatted table in a Microsoft word file. Note that the students' names have been removed to protect their privacy.
